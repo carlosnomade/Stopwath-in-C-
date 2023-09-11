@@ -1,0 +1,15 @@
+C:\dev\Stopwath\bin\Debug\net6.0\Stopwath.exe
+C:\dev\Stopwath\bin\Debug\net6.0\Stopwath.deps.json
+C:\dev\Stopwath\bin\Debug\net6.0\Stopwath.runtimeconfig.json
+C:\dev\Stopwath\bin\Debug\net6.0\Stopwath.dll
+C:\dev\Stopwath\bin\Debug\net6.0\Stopwath.pdb
+C:\dev\Stopwath\obj\Debug\net6.0\Stopwath.csproj.AssemblyReference.cache
+C:\dev\Stopwath\obj\Debug\net6.0\Stopwath.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Stopwath\obj\Debug\net6.0\Stopwath.AssemblyInfoInputs.cache
+C:\dev\Stopwath\obj\Debug\net6.0\Stopwath.AssemblyInfo.cs
+C:\dev\Stopwath\obj\Debug\net6.0\Stopwath.csproj.CoreCompileInputs.cache
+C:\dev\Stopwath\obj\Debug\net6.0\Stopwath.dll
+C:\dev\Stopwath\obj\Debug\net6.0\refint\Stopwath.dll
+C:\dev\Stopwath\obj\Debug\net6.0\Stopwath.pdb
+C:\dev\Stopwath\obj\Debug\net6.0\Stopwath.genruntimeconfig.cache
+C:\dev\Stopwath\obj\Debug\net6.0\ref\Stopwath.dll
